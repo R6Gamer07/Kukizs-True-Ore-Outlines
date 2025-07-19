@@ -20,7 +20,9 @@
 ---
 
 ## 🛠 Installation
-Download From Modrinth **OR**
+Download From Modrinth [Modrinth Download](https://modrinth.com/resourcepack/true-ore-borders-by-kukiz)
+
+**OR**
 1. Download the `.zip` file from the [Releases](https://github.com/R6Gamer07/True-Ore-Outlines/releases) tab.  
 2. Place the `.zip` file in your game’s `resourcepacks` folder:  
    - **Windows:** `%appdata%\.minecraft\resourcepacks`  
