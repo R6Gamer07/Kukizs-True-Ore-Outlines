@@ -34,7 +34,7 @@ Download From Modrinth **OR**
 ## 🐞 Reporting Bugs
 
 Found a problem or missing texture?  
-📄 Open an [issue](https://github.com/R6Gamer07/Kukiz-True-Ore-Outlines/issues) and include:  
+📄 Open an [issue](https://github.com/R6Gamer07/True-Ore-Outlines/issues) and include:  
 - Your **Minecraft version**  
 - Screenshots of the issue  
 - Steps to reproduce  
