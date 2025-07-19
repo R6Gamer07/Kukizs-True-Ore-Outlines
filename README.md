@@ -3,9 +3,8 @@
 🎨 **Kukiz's True Ore Outlines** adds clean, natural-colored outlines to all ores in Minecraft, making them easier to spot while keeping a true vanilla style. Perfect for players who want better visibility without breaking immersion.  
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/899c74a8-6376-4bf6-9d49-7f4ffd9c9f39" width="300" height="300" alt="Screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/68ec208c-f1f0-4c86-b6be-a8bba2f74ccc" width="300" height="300" alt="Screenshot 2" />
-  <img src="https://github.com/user-attachments/assets/74a024b1-d95d-481a-b9a3-7043cda1a1ef" width="300" height="300" alt="Screenshot 3" />
+<img src="https://github.com/user-attachments/assets/810117e9-6628-4648-8845-847733988af9" width="45%" />
+<img src="https://github.com/user-attachments/assets/8baf88bf-fbfc-4d12-ad2c-8fbfab350664" width="45%" />
 </p>
 
 ---
